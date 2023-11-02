@@ -556,6 +556,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [Sextant](https://github.com/KittyMac/Sextant) :penguin: - High performance JSONPath queries
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - A lib for JSON with error handling.
 * [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+* [Json4Swift](https://json4swift.com) - An online tool that generates Swift models from JSON for streamlined iOS development, alongside providing educational resources to tackle common conversion pitfalls.
 
 #### Key Value Store
 [back to top](#readme) 
